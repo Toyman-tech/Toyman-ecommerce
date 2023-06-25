@@ -1,0 +1,121 @@
+.sign-in {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 3.5rem;
+    justify-content: center;
+   
+  
+  
+    .head{
+      margin: 3rem 0 3rem 0;
+      @media only screen and (min-width: 360px) {
+        margin: 2rem 0 2.5rem -2rem;
+      }
+      @media only screen and (min-width: 1280px) {
+        margin: 3.5rem 0 3rem 0;
+      }
+    }
+
+    @media only screen and (max-width: 411px) {
+      width: 63vw;
+    
+      .head{
+        margin: 3rem 0 3rem -1.5rem;
+      }
+    }
+     
+    .form-input{
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 450px;
+    height: 20%;
+
+    &::placeholder{
+      color: #e5e5e5;
+      font-weight: 500;
+      text-transform: uppercase;
+      
+    }
+    @media only screen and (max-width: 342px) {
+      width: 200px;
+      
+    }
+    @media only screen and (min-width: 360px) {
+      width: 70vw;
+      margin-left: -1.5rem;  
+      margin-top: -0.5rem;
+    }
+    @media only screen and (min-width: 411px) {
+      width: 70vw;
+      margin-left: -1rem;
+      .h2{
+        margin: 3rem 0 0rem 0;
+        
+      }
+    }
+  
+    @media only screen and (min-width: 768px) {
+      width: 80vw;
+    }
+    @media only screen and (min-width: 1024px) {
+      width: 70vw;
+
+    }
+    @media only screen and (min-width: 1280px) {
+      width: 400px;
+      margin-top: 0.5rem;
+
+      
+    }
+    }
+   
+    .buttons {
+      display: flex;
+      justify-content: center;
+      margin: 1rem 0 2rem 0;
+      width: 100%;
+      align-items: center;
+      @media only screen and (min-width: 360px) {
+        margin: 0.1rem 0 1rem 0;
+      }
+      
+    }
+    .h5{
+      text-transform: uppercase;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      align-self: center;
+    }
+    .rule{
+      width: 90%;
+      height: 0.3rem;
+      border-radius: 0.8rem;
+      border: none;
+      margin: 0.5rem 0 0.5rem 0;
+      background: linear-gradient(to right, #14163c 0%, #03217b 79%);
+      backdrop-filter: blur(25px);
+      @media only screen and (min-width: 360px) {
+        width: 250px;
+        margin: 0.1rem 0rem 0.9rem -2.5rem;
+
+      }
+
+    }
+    .icon{
+      display: flex;
+
+    }
+    .forgot-password{
+      cursor: pointer;
+      font-size: medium;
+      letter-spacing: 0.5px;
+      
+    }
+     
+  }

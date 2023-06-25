@@ -1,0 +1,6 @@
+{
+    "editor.fontWeight": "normal",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "terminal.integrated.allowMnemonics": true
+}
