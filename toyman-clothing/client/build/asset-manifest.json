@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60876c0b.css",
+    "main.js": "/static/js/main.9f524098.js",
+    "static/css/79.5b630699.chunk.css": "/static/css/79.5b630699.chunk.css",
+    "static/js/79.698a5010.chunk.js": "/static/js/79.698a5010.chunk.js",
+    "static/css/471.8ebcf23a.chunk.css": "/static/css/471.8ebcf23a.chunk.css",
+    "static/js/471.5f298574.chunk.js": "/static/js/471.5f298574.chunk.js",
+    "static/css/482.05c78b8e.chunk.css": "/static/css/482.05c78b8e.chunk.css",
+    "static/js/482.264116a3.chunk.js": "/static/js/482.264116a3.chunk.js",
+    "static/css/454.8bceef16.chunk.css": "/static/css/454.8bceef16.chunk.css",
+    "static/js/454.545ee190.chunk.js": "/static/js/454.545ee190.chunk.js",
+    "static/js/433.16d237f3.chunk.js": "/static/js/433.16d237f3.chunk.js",
+    "static/js/135.9de01a86.chunk.js": "/static/js/135.9de01a86.chunk.js",
+    "static/media/background.jpg": "/static/media/background.9bd94859fd001d8be8e2.jpg",
+    "static/media/122 shopping-bag.svg": "/static/media/122 shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg.svg": "/static/media/crown.svg.207ae289b221bfaca0108507f9bb2f85.svg",
+    "index.html": "/index.html",
+    "main.60876c0b.css.map": "/static/css/main.60876c0b.css.map",
+    "main.9f524098.js.map": "/static/js/main.9f524098.js.map",
+    "79.5b630699.chunk.css.map": "/static/css/79.5b630699.chunk.css.map",
+    "79.698a5010.chunk.js.map": "/static/js/79.698a5010.chunk.js.map",
+    "471.8ebcf23a.chunk.css.map": "/static/css/471.8ebcf23a.chunk.css.map",
+    "471.5f298574.chunk.js.map": "/static/js/471.5f298574.chunk.js.map",
+    "482.05c78b8e.chunk.css.map": "/static/css/482.05c78b8e.chunk.css.map",
+    "482.264116a3.chunk.js.map": "/static/js/482.264116a3.chunk.js.map",
+    "454.8bceef16.chunk.css.map": "/static/css/454.8bceef16.chunk.css.map",
+    "454.545ee190.chunk.js.map": "/static/js/454.545ee190.chunk.js.map",
+    "433.16d237f3.chunk.js.map": "/static/js/433.16d237f3.chunk.js.map",
+    "135.9de01a86.chunk.js.map": "/static/js/135.9de01a86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60876c0b.css",
+    "static/js/main.9f524098.js"
+  ]
+}
